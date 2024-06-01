@@ -2,11 +2,11 @@
 Welcome to the Gemini Chat Interface project! This repository contains the code and resources for developing a chat interface using Streamlit, integrated with Google's cutting-edge large language model, Gemini. This project aims to provide an accessible platform to explore and demonstrate the capabilities of advanced language model applications, serving as both an educational and practical introduction to the fusion of large language models and user-friendly interfaces.
 
 ## Table of Contents
-### 1. Introduction(#introduction)
-### 2. Features(#features)
-### 3. Installation(#installation)
-### 4. Usage(#usage)
-### 5. Project Structure(#project-structure)
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Project Structure](#project-structure)
 
 ## Introduction
 The Gemini Chat Interface is designed to showcase the power and versatility of Google's Gemini large language model. By leveraging Streamlit, a popular Python library for creating interactive web applications, this project enables users to interact with Gemini in a straightforward and engaging manner. Whether you're a developer, researcher, or enthusiast, this interface provides a hands-on way to explore the potential of large language models.
@@ -27,29 +27,29 @@ cd gemini_explorer.py
 '''
 
 2. Create a Virtual Environment:
-'''bash
+```bash
 python3 -m venv venv
 source venv/bin/activate
-'''
+```
 
 3. Install Dependencies:
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ## Usage
 Run the Streamlit Application:
-'''bash
+```bash
 streamlit run app.py
-'''
+```
 
 Access the Application:
 Open your web browser and navigate to http://localhost:8501 to interact with the Gemini Chat Interface.
 
 ## Project Structure
-'''bash
-gemini-chat-interface/
+```bash
+Mission1 - Gemini Explorer/
 ├── gemini_explorer.py     # Main application file
 ├── requirements.txt       # Required Python packages
 ├── README.md              # Project documentation
-    '''
+```

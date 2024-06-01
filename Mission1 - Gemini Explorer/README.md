@@ -21,10 +21,10 @@ The Gemini Chat Interface is designed to showcase the power and versatility of G
 To get started with the Gemini Chat Interface, follow these steps:
 
 1. Clone the Repository:
-'''bash
+```bash
 git clone https://github.com/YomnaEisa/RadicalX/tree/main/Mission1%20-%20Gemini%20Explorer
 cd gemini_explorer.py
-'''
+```
 
 2. Create a Virtual Environment:
 ```bash

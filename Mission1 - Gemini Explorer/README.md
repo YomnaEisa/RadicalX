@@ -1,5 +1,5 @@
-# Gemini Chat Interface
-Welcome to the Gemini Chat Interface project! This repository contains the code and resources for developing a chat interface using Streamlit, integrated with Google's cutting-edge large language model, Gemini. This project aims to provide an accessible platform to explore and demonstrate the capabilities of advanced language model applications, serving as both an educational and practical introduction to the fusion of large language models and user-friendly interfaces.
+# Gemini Explorer
+Welcome to the Gemini Explorer project! This repository contains the code and resources for developing a chat interface using Streamlit, integrated with Google's cutting-edge large language model, Gemini. This project aims to provide an accessible platform to explore and demonstrate the capabilities of advanced language model applications, serving as both an educational and practical introduction to the fusion of large language models and user-friendly interfaces.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -9,7 +9,7 @@ Welcome to the Gemini Chat Interface project! This repository contains the code 
 5. [Project Structure](#project-structure)
 
 ## Introduction
-The Gemini Chat Interface is designed to showcase the power and versatility of Google's Gemini large language model. By leveraging Streamlit, a popular Python library for creating interactive web applications, this project enables users to interact with Gemini in a straightforward and engaging manner. Whether you're a developer, researcher, or enthusiast, this interface provides a hands-on way to explore the potential of large language models.
+The Gemini Explorer is designed to showcase the power and versatility of Google's Gemini large language model. By leveraging Streamlit, a popular Python library for creating interactive web applications, this project enables users to interact with Gemini in a straightforward and engaging manner. Whether you're a developer, researcher, or enthusiast, this interface provides a hands-on way to explore the potential of large language models.
 
 ## Features
 1. Interactive Chat Interface: Engage in conversations with Gemini through a user-friendly chat interface.
@@ -18,7 +18,7 @@ The Gemini Chat Interface is designed to showcase the power and versatility of G
 4. Customizable and Extensible: Easily modify and extend the project to suit your needs and explore additional functionalities.
 
 ## Installation
-To get started with the Gemini Chat Interface, follow these steps:
+To get started with the Gemini Explorer, follow these steps:
 
 1. Clone the Repository:
 ```bash
@@ -44,7 +44,7 @@ streamlit run app.py
 ```
 
 Access the Application:
-Open your web browser and navigate to http://localhost:8501 to interact with the Gemini Chat Interface.
+Open your web browser and navigate to http://localhost:8501 to interact with the Gemini Explorer.
 
 ## Project Structure
 ```bash

@@ -29,7 +29,7 @@ cd gemini_explorer.py
 2. Create a Virtual Environment:
 ```bash
 python3 -m venv venv
-source venv/bin/activate
+source venv\Scripts\activate
 ```
 
 3. Install Dependencies:

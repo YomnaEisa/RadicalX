@@ -1,5 +1,5 @@
 # Gemini Quizzify
-Welcome to the Mission2 - Gemini Quizzify project! This project aims to address the common challenge students and learners face in reinforcing their understanding of various topics and recognizing the difficulty in obtaining timely feedback and the need for unlimited practice opportunities, developing an AI-generated assessment and quiz tool leveraging the advanced capabilities of Google Gemini.
+Welcome to the Gemini Quizzify project! This project aims to address the common challenge students and learners face in reinforcing their understanding of various topics and recognizing the difficulty in obtaining timely feedback and the need for unlimited practice opportunities, developing an AI-generated assessment and quiz tool leveraging the advanced capabilities of Google Gemini.
 
 ## Table of Contents
 1. [Introduction](#introduction)
